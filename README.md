@@ -8,4 +8,6 @@ Coming Soon! Version 1.0 is to come out sometime Later this Year. Thanks for you
 
 Reccomended Tools:
 Windows 8.1 or Later
+iOS 14.5.1 or Later
+Android Pie or Later
 Latest Microsoft Edge Version *This does not work well with Chrome or Firefox.
